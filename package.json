@@ -1,0 +1,27 @@
+{
+  "name": "my-crypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangta69/node-crypto.git"
+  },
+  "author": "pondol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangta69/node-crypto/issues"
+  },
+  "homepage": "https://github.com/wangta69/node-crypto#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "dotenv": "^10.0.0",
+    "moment-timezone": "^0.5.33",
+    "ripple-lib": "^1.9.7",
+    "trongrid": "^1.2.6",
+    "tronweb": "^3.2.7"
+  }
+}
