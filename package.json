@@ -18,10 +18,14 @@
   "homepage": "https://github.com/wangta69/node-crypto#readme",
   "dependencies": {
     "async": "^3.2.0",
+    "crypto-js": "^4.1.1",
     "dotenv": "^10.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "fs": "0.0.1-security",
     "moment-timezone": "^0.5.33",
     "ripple-lib": "^1.9.7",
     "trongrid": "^1.2.6",
-    "tronweb": "^3.2.7"
+    "tronweb": "^3.2.7",
+    "web3": "^1.5.0"
   }
 }
